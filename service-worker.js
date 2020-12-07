@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pave-erp-demo/precache-manifest.ade5400a1b5f1b6d376f9edfcbfc4fad.js"
+  "/pave-erp-demo/precache-manifest.07508e1babff6beba114c9589c15d4d2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pave-erp"});
