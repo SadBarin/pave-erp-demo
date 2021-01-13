@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebe4529f9d6e30ff19a5",
+    "revision": "ccf2223eacba3478b07c",
     "url": "/pave-erp-demo/css/app.dc234e97.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pave-erp-demo/css/chunk-3d4a297d.a44e9181.css"
   },
   {
-    "revision": "bd5a97545b8bce48ae51",
+    "revision": "a14ab25a236692d70237",
     "url": "/pave-erp-demo/css/chunk-6b9eebbc.e1992031.css"
   },
   {
@@ -92,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pave-erp-demo/icon/site.webmanifest"
   },
   {
-    "revision": "8c86583638efd555d821635b85c24644",
+    "revision": "f1bd66cdf352ec24d22694048d4c4add",
     "url": "/pave-erp-demo/index.html"
   },
   {
-    "revision": "ebe4529f9d6e30ff19a5",
-    "url": "/pave-erp-demo/js/app.cab75368.js"
+    "revision": "ccf2223eacba3478b07c",
+    "url": "/pave-erp-demo/js/app.8c862c77.js"
   },
   {
     "revision": "058004e01b1bd0f8b621",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pave-erp-demo/js/chunk-692c8bda.e4bb81b8.js"
   },
   {
-    "revision": "bd5a97545b8bce48ae51",
-    "url": "/pave-erp-demo/js/chunk-6b9eebbc.472cbb16.js"
+    "revision": "a14ab25a236692d70237",
+    "url": "/pave-erp-demo/js/chunk-6b9eebbc.016ee907.js"
   },
   {
     "revision": "ffa5636e42927052bff8",
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pave-erp-demo/js/chunk-vendors.0f60d30d.js"
   },
   {
-    "revision": "6abc5d0e441409fdc11a8d10b597338b",
+    "revision": "2d024c51a1220c6fa2d3b77b097bae8e",
     "url": "/pave-erp-demo/manifest.json"
   },
   {
