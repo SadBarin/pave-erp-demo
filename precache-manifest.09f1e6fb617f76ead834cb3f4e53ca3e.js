@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b40ea7e0a9263bcd80f",
+    "revision": "1e4935016e37167a50d8",
     "url": "/pave-erp-demo/css/app.dcbd05c0.css"
   },
   {
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pave-erp-demo/icon/site.webmanifest"
   },
   {
-    "revision": "434e1adf984c74726b8671c00f055b10",
+    "revision": "b53aa80a5dcd2c9086c3046711548641",
     "url": "/pave-erp-demo/index.html"
   },
   {
-    "revision": "0b40ea7e0a9263bcd80f",
-    "url": "/pave-erp-demo/js/app.983bb766.js"
+    "revision": "1e4935016e37167a50d8",
+    "url": "/pave-erp-demo/js/app.bb1e89e1.js"
   },
   {
     "revision": "fd4000dd5eec09bd72ac",
