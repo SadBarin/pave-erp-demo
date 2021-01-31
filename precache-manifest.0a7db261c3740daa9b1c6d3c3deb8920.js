@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d34619714b588c21c51",
-    "url": "/pave-erp-demo/css/app.9072056d.css"
-  },
-  {
-    "revision": "fd4000dd5eec09bd72ac",
-    "url": "/pave-erp-demo/css/chunk-0cd1a8e7.38401fd1.css"
+    "revision": "9c769c235e68a829822a",
+    "url": "/pave-erp-demo/css/app.0391289c.css"
   },
   {
     "revision": "a56d4ff7b6e3ff069ef8",
     "url": "/pave-erp-demo/css/chunk-168a7618.a5a4cdf9.css"
   },
   {
-    "revision": "814c670e750a2baf1002",
-    "url": "/pave-erp-demo/css/chunk-1e130798.c4d46475.css"
+    "revision": "7828f3df4f89a3c73484",
+    "url": "/pave-erp-demo/css/chunk-2d612d9c.b8a8a5ef.css"
   },
   {
-    "revision": "73f2fb5d82e9d49b9798",
-    "url": "/pave-erp-demo/css/chunk-322a1351.29215c52.css"
+    "revision": "3d4013e63766500bcc4d",
+    "url": "/pave-erp-demo/css/chunk-44a353d2.a45ae8cb.css"
   },
   {
-    "revision": "a76366ea69c6d02a7902",
-    "url": "/pave-erp-demo/css/chunk-461d90f8.93c1223a.css"
+    "revision": "e248897ac5fd2883d6e1",
+    "url": "/pave-erp-demo/css/chunk-4a4626b5.38401fd1.css"
   },
   {
-    "revision": "fa62710d54a821fc9238",
-    "url": "/pave-erp-demo/css/chunk-5cd78e67.a11c3ae5.css"
+    "revision": "f41d28d9a5b4b26dfcc8",
+    "url": "/pave-erp-demo/css/chunk-52310887.27549bc3.css"
   },
   {
-    "revision": "44bd70b316ec85a249c7",
-    "url": "/pave-erp-demo/css/chunk-6a8c00d3.529778da.css"
+    "revision": "9e34fa37a5927437e320",
+    "url": "/pave-erp-demo/css/chunk-56fc9512.ace3818c.css"
   },
   {
-    "revision": "9528d80435c417a10337",
-    "url": "/pave-erp-demo/css/chunk-70687ff1.ce13a465.css"
+    "revision": "a894c09e18ee36a0d1c6",
+    "url": "/pave-erp-demo/css/chunk-58eea762.780b1116.css"
+  },
+  {
+    "revision": "ed05d8b776ef61193a56",
+    "url": "/pave-erp-demo/css/chunk-6c498e2e.c2478e6c.css"
   },
   {
     "revision": "44020f295083e9644dbf",
@@ -88,52 +88,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pave-erp-demo/icon/site.webmanifest"
   },
   {
-    "revision": "a478625bcbb460c7ccf9a73416c9ff10",
+    "revision": "afe87e2d31e5c552dfa7d0334bb3faec",
     "url": "/pave-erp-demo/index.html"
   },
   {
-    "revision": "1d34619714b588c21c51",
-    "url": "/pave-erp-demo/js/app.d0b31243.js"
-  },
-  {
-    "revision": "fd4000dd5eec09bd72ac",
-    "url": "/pave-erp-demo/js/chunk-0cd1a8e7.062e8806.js"
+    "revision": "9c769c235e68a829822a",
+    "url": "/pave-erp-demo/js/app.a94c9235.js"
   },
   {
     "revision": "a56d4ff7b6e3ff069ef8",
     "url": "/pave-erp-demo/js/chunk-168a7618.f1a8b64f.js"
   },
   {
-    "revision": "814c670e750a2baf1002",
-    "url": "/pave-erp-demo/js/chunk-1e130798.a874f71c.js"
+    "revision": "7828f3df4f89a3c73484",
+    "url": "/pave-erp-demo/js/chunk-2d612d9c.b51aa08e.js"
   },
   {
     "revision": "69d80585bbc682bad82f",
     "url": "/pave-erp-demo/js/chunk-2d6bf53a.5a129907.js"
   },
   {
-    "revision": "73f2fb5d82e9d49b9798",
-    "url": "/pave-erp-demo/js/chunk-322a1351.9bbe1f60.js"
+    "revision": "3d4013e63766500bcc4d",
+    "url": "/pave-erp-demo/js/chunk-44a353d2.4807164d.js"
   },
   {
-    "revision": "a76366ea69c6d02a7902",
-    "url": "/pave-erp-demo/js/chunk-461d90f8.a9b4bdb4.js"
+    "revision": "e248897ac5fd2883d6e1",
+    "url": "/pave-erp-demo/js/chunk-4a4626b5.354f3174.js"
   },
   {
-    "revision": "fa62710d54a821fc9238",
-    "url": "/pave-erp-demo/js/chunk-5cd78e67.154fdc83.js"
+    "revision": "f41d28d9a5b4b26dfcc8",
+    "url": "/pave-erp-demo/js/chunk-52310887.166d35d0.js"
+  },
+  {
+    "revision": "9e34fa37a5927437e320",
+    "url": "/pave-erp-demo/js/chunk-56fc9512.027b6066.js"
+  },
+  {
+    "revision": "a894c09e18ee36a0d1c6",
+    "url": "/pave-erp-demo/js/chunk-58eea762.71458112.js"
   },
   {
     "revision": "c151138135454e10329f",
     "url": "/pave-erp-demo/js/chunk-5cf3bf4c.983f3c95.js"
   },
   {
-    "revision": "44bd70b316ec85a249c7",
-    "url": "/pave-erp-demo/js/chunk-6a8c00d3.e9b08d4d.js"
-  },
-  {
-    "revision": "9528d80435c417a10337",
-    "url": "/pave-erp-demo/js/chunk-70687ff1.be09d319.js"
+    "revision": "ed05d8b776ef61193a56",
+    "url": "/pave-erp-demo/js/chunk-6c498e2e.f804f8b0.js"
   },
   {
     "revision": "738ae9a1851264aaa4a5",
